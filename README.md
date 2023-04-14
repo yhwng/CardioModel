@@ -16,3 +16,5 @@ Exploration of diffrent approaches (Naive-Bayes, Decision Tree, Random Forest) t
 > 12. **Presence or absence** of cardiovascular disease | Target Variable | cardio | binary |
 
 Learn more : https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset
+
+<img src = "Picture12.png">
